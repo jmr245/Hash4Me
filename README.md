@@ -5,6 +5,7 @@ Welcome to my first Python project!  Hash4Me is a simple, ongoing, and security 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Plans](#plans)
 - [Shoutout](#shoutout)
 ## Installation
 *Hash4Me was written with Python3.9.7, so make sure you at least have Python3.9 installed on your device.*
@@ -22,5 +23,7 @@ To run Hash4Me, use the following command: '''python3 hash4me.py'''.  If this is
 5. Create a pull request.
 ## License
 This project is licensed under the [MIT License](LICENSE)
+## Plans
+Hash4Me is an ongoing project, meaning I, and anyone who wishes to contribute, will be making changes and actively updating the program as I plan to add new features and make existing features more efficient and robust.  Stay tuned!
 ## Shoutout
 Huge shoutout to www.geeksforgeeks.org for being an amazing resource and reference for this project and for learning Python in general.
